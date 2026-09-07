@@ -176,4 +176,4 @@ Contributions closing any of these gaps are very welcome.
 
 ## License
 
-*(Add your preferred license here — MIT is a common default for a project like this.)*
+
